@@ -1,7 +1,7 @@
 ORG 0
-BITS 16
+BITS 16 ; real mode 16 bits 
 
-;0x7c00 --- BIOS signature
+; 0x7c00 --- BIOS signature
 
 _start:
     jmp short start
