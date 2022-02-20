@@ -1,6 +1,8 @@
 ORG 0
 BITS 16
 
+;0x7c00 --- BIOS signature
+
 _start:
     jmp short start
     nop
