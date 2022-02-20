@@ -1,5 +1,5 @@
 ORG 0
-BITS 16 ; real mode 16 bits 
+BITS 16 ; Real Mode 16 bits 
 
 ; 0x7c00 --- BIOS MBR signature
 
